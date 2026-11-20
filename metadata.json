@@ -1,0 +1,6 @@
+{
+  "name": "Giyani Browser",
+  "description": "Privacy-oriented Android browser with Country Identity Engine, integrated WireGuard VPN, Tab Grouping, and Resumable Download Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

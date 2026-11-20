@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Giyani Browser</string>
+    <string name="vpn_service_label">Giyani Browser Per-App VPN</string>
+    <string name="download_channel_name">Giyani Browser Downloads</string>
+    <string name="download_channel_desc">Shows progress for active and paused browser downloads</string>
+    <string name="search_or_type_url">Search or enter address</string>
+    <string name="simple_mode">Simple Mode</string>
+    <string name="advanced_mode">Advanced Mode</string>
+    <string name="tab_groups">Tab Groups</string>
+    <string name="downloads">Downloads</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="profiles">Profiles</string>
+    <string name="vpn_engine">VPN Engine</string>
+</resources>
